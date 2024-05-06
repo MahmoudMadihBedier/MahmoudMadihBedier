@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing mobile app , software solutions and quick hacks.
 - 🎓 &nbsp; Studying ECE &  Computer Science a at AIET .
-- 💼 &nbsp; Working as a flutter developer and instructor in some of academies.
+- 💼 &nbsp; Working as a flutter developer and instructor in some  academies.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
